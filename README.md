@@ -1,1 +1,1 @@
-<a href="https://omerfaruk0zkn.github.io/Exxen-Application/">Siteye gitmek için tıkla</a>
+<a href="https://omerfaruk0zkn.github.io/Exxen/">Siteye gitmek için tıkla</a>
